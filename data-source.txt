@@ -1,0 +1,12 @@
+# API Setup
+
+This project uses data from WeatherAPI.
+
+### Steps to Configure:
+
+1. Sign up at https://www.weatherapi.com/
+2. Get your API key
+3. Use the following endpoint:
+
+https://api.weatherapi.com/v1/current.json?key=YOUR_API_KEY&q=CITY_NAME
+
